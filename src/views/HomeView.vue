@@ -178,7 +178,7 @@ svg {
   width: 100%;
   height: 181px;
   bottom: 0;
-  background: url(C:\Users\Delta.co\Documents\quasar-project\public\icons\skyline.png);
+  background: url(C:\Users\Delta.co\Documents\weather-app\src\assets\skyline.png);
   background-size: contain;
   background-position: center bottom;
 }
